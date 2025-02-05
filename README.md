@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Predrag Duric, 33 years old from Dublin.
+- 👋 Hi, I’m Predrag Duric, 35 years old from Dublin.
 - 👀 Entry-level Python developer seeking growth opportunity and looking for challenging duties in an expert environment
 - 🌱 I’m currently learning Python, Machine Learning, Big Data
 - 📫 You can reach me out via Linkedln: https://www.linkedin.com/in/predrag-djuric/
